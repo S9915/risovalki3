@@ -1,0 +1,7 @@
+﻿  sosu5.cpp
+C:\Users\student\source\repos\sosu5\sosu5\sosu5.cpp(55,13): warning C4101: x_scr: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu5\sosu5\sosu5.cpp(56,10): warning C4101: x: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu5\sosu5\sosu5.cpp(56,13): warning C4101: h: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu5\sosu5\sosu5.cpp(55,20): warning C4101: y_scr: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu5\sosu5\sosu5.cpp(54,8): warning C4101: hRgn: неиспользованная локальная переменная
+  sosu5.vcxproj -> C:\Users\student\source\repos\sosu5\Debug\sosu5.exe
