@@ -1,0 +1,9 @@
+﻿  sosu6.cpp
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(55,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(55,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(55,15): warning C4101: x_scr: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(56,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(56,15): warning C4101: h: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(55,22): warning C4101: y_scr: неиспользованная локальная переменная
+C:\Users\student\source\repos\sosu6\sosu6\sosu6.cpp(54,10): warning C4101: hRgn: неиспользованная локальная переменная
+  sosu6.vcxproj -> C:\Users\student\source\repos\sosu6\Debug\sosu6.exe
